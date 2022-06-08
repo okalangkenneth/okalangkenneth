@@ -1,6 +1,6 @@
 
 
-<img src="GitHubPics\profileImage.mp4">
+<img src="GitHubPics\profileImage.jpg">
 
 <h2> Hey there! I'm Kenneth.</h2>
 

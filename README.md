@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://www.okalangkenneth.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.okalangkenneth.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/okalangkenneth/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Okalang%20Kenneth-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/okalangkenneth/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Okalang%20Kenneth%200194271b0-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:okalang.ok@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-okalang.ok@gmail.com.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 

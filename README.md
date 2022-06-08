@@ -8,10 +8,10 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a freelancer. Currently working on a person project on microservices.
-- 🔭 I completed working on atenity.com modifying the code as per specifications.
-- 👯 I’m looking to collaborate on projects as a backend developer.
-- 💬 Ask me about development of the functions that allow data to flow between the server and the users.
-- 📫 How to reach me: okalang.ok@gmail.com 
+- 🔭 &nbsp; I completed working on atenity.com modifying the code as per specifications.
+- 👯 &nbsp; I’m looking to collaborate on projects as a backend developer.
+- 💬 &nbsp; Ask me about development of the functions that allow data to flow between the server and the users.
+- 📫 &nbsp; How to reach me: okalang.ok@gmail.com 
 - ✍️ &nbsp; Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -48,7 +48,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.okalangkenneth.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.okalangkenneth.com-blue?style=flat-square&logo=google-chrome"></a>

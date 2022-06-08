@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/okalangkenneth/okalankenneth/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="Users\Ken\Pictures\GitHub\profileImage.jpg">
 
 <h2> Hey there! I'm Kenneth.</h2>
 

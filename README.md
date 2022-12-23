@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a freelancer. Currently working on a person project on microservices.
-- 🔭 &nbsp; I completed working on atenity.com modifying the code as per specifications.
+- 🔭 &nbsp; I am also working on atenity.com modifying the code as per specifications.
 - 👯 &nbsp; I’m looking to collaborate on projects as a backend developer.
 - 💬 &nbsp; Ask me about development of the functions that allow data to flow between the server and the users.
 - 📫 &nbsp; How to reach me: okalang.ok@gmail.com 
